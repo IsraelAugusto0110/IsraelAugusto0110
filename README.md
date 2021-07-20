@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Israel Augusto
-#### I am GitHub Readme Generator's creator
+
 Estou cursando analise de sistemas e adoro projetos desafiadores, que me permitam aprender coisas novas.
 
 Skills: JAVA / C / PYTHON / REACT / JS / HTML / CSS
