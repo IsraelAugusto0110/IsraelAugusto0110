@@ -4,7 +4,7 @@ Estou cursando analise de sistemas e adoro projetos desafiadores, que me permita
 
 Skills: JAVA / C / PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on https://github.com/IsraelAugusto0110/WebMeeting 
+- 🔭 I’m currently working on https://github.com/JodanGalas/Projeto_Integrador.git
 - 🌱 I’m currently learning Java, Html, Css, Javascript e React  
 
 
